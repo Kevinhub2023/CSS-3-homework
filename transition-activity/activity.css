@@ -1,1 +1,21 @@
 
+button:hover {
+    background-color: cornflowerblue;
+    color: white;
+    transition-duration: 2s;
+}
+
+button:not(:hover) {
+    background-color: ghostwhite;
+    transition: 2s;
+}
+
+
+.caption {
+    position: relative;
+    overflow: hidden;
+}
+
+img:hover {
+
+}
