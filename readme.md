@@ -1,3 +1,3 @@
 First commiit
 
-Added transform rule to 'main' element.
+Homework completed exept Bonus part. For Bonus created new brunch in github.
